@@ -1,4 +1,4 @@
-# practicingwebapi_demo
+# webapi_demo
 
 A new Flutter project.
 
